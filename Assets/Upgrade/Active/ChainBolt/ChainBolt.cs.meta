@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c7b3d117c63d3a4e8e252e8b7a0e231
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - upgradeAttribute: {fileID: 11400000, guid: b3561764b61e3fa48b3b1baeb66516c3, type: 2}
+  - lightningPartical: {fileID: 738795389602006082, guid: e2ef40c975c71c6489456f86fddd0794,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
